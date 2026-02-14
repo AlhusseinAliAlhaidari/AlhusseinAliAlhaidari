@@ -75,9 +75,15 @@ Building scalable systems, clean architectures, and intelligent applications.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&hide_border=true&langs_count=6" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </div>
 
 ---
