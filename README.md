@@ -57,7 +57,15 @@
 ---
 
 ## 📊 GitHub Analytics
-
+<div align="center">
+  <h3>🐍 My GitHub Contributions Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlhusseinAliAlhaidari/AlhusseinAliAlhaidari/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlhusseinAliAlhaidari/AlhusseinAliAlhaidari/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlhusseinAliAlhaidari/AlhusseinAliAlhaidari/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" width="48%" />
