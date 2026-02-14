@@ -63,6 +63,7 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <div align="center">
   <h3>🐍 My GitHub Contributions Snake</h3>
   <picture>
@@ -72,17 +73,18 @@
   </picture>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" height="195" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlhusseinAliAlhaidari&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlhusseinAliAlhaidari&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
 </div>
-
 ---
 
 <div align="center">
