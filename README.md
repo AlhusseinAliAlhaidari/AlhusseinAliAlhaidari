@@ -4,12 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Al-Hussain+Al-Haidari+👋;Software+%26+Flutter+Developer;Data+Scientist+%26+AI+Engineer;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlhusseinAliAlhaidari&color=2196F3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 **Building scalable systems, clean architectures, and intelligent AI agents.**
 
 🇾🇪 Yemen | 🎓 University of Science & Technology <br>
 💡 Clean Code • SOLID • Design Patterns • Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:alhusseinalhaidariexprimental@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:alhusseinalhaidari@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)]([https://huggingface.co/](https://huggingface.co/alhussainAlhaidari))
 
 </div>
 
