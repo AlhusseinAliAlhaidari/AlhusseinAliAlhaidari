@@ -1,16 +1,95 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AlhusseinAliAlhaidari/AlhusseinAliAlhaidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Al-Hussain Al-Haidari
 
-Here are some ideas to get you started:
+### Software Developer | Flutter & Backend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable systems, clean architectures, and intelligent applications.
+
+🇾🇪 Yemen  
+🎓 University of Science & Technology  
+💡 Clean Code • SOLID • Design Patterns  
+
+</div>
+
+---
+
+## 🚀 About Me
+- 💻 Software Developer focused on **Flutter & System Design**
+- 🏗️ Strong experience with **Clean Architecture**
+- 📱 Building **offline-first** and **scalable applications**
+- 🤖 Interested in **AI-powered systems**
+- 🧠 Problem solver, system thinker
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks**
+- Dart / Flutter
+- Python
+- SQL
+
+**Architecture & Concepts**
+- Clean Architecture
+- SOLID Principles
+- Repository Pattern
+- Use Cases
+- MVC / MVVM
+
+**Databases**
+- SQLite
+- PostgreSQL
+
+**Tools**
+- Git & GitHub
+- REST APIs
+- Supabase
+
+---
+
+## 📌 Featured Projects
+🔹 **Accounting System**
+- Clean Architecture
+- User Management
+- Smart Reports
+- Offline Support
+
+🔹 **Smart Restaurant System**
+- QR Code Ordering
+- Internal Network
+- Kitchen Display System
+- Smart Recommendations
+
+🔹 **Travel Booking Platform**
+- Family Bookings
+- Relationship Validation
+- Scalable Database Design
+
+🔹 **Offline AI Accounting Assistant**
+- Flutter + Embedded AI
+- Custom Trained Models
+- No Internet Required
+
+---
+
+## 📊 GitHub Analytics
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Contact
+- 🌐 GitHub: https://github.com/AlhusseinAliAlhaidari
+- 📧 Email: alhusseinalhaidariexprimental@gmail.com
+
+---
+
+<div align="center">
+
+**"Great software starts with great architecture."**
+
+</div>
