@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/AlhusseinAliAlhaidari">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Al-Hussain+Al-Haidari+👋;Software+%26+Flutter+Developer;Data+Scientist+%26+AI+Engineer;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Al-Hussain+Al-Haidari+👋;Software+%26+Flutter+Developer;Data+Scientist+%26+AI+Engineer;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlhusseinAliAlhaidari&color=2196F3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AlhusseinAliAlhaidari&color=2196F3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 **Building scalable systems, clean architectures, and intelligent AI agents.**
@@ -63,23 +63,24 @@
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <h3>🐍 My GitHub Contributions Snake</h3>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlhusseinAliAlhaidari/AlhusseinAliAlhaidari/output/github-contribution-grid-snake.svg?sanitize=true&v=2" />
+  <h3>🐍 My GitHub Contributions Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlhusseinAliAlhaidari/AlhusseinAliAlhaidari/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlhusseinAliAlhaidari/AlhusseinAliAlhaidari/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlhusseinAliAlhaidari/AlhusseinAliAlhaidari/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&v=3" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&v=3" alt="Top Languages" height="195" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlhusseinAliAlhaidari&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&v=3" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlhusseinAliAlhaidari&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
