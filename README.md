@@ -65,6 +65,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AlhusseinAliAlhaidari&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" height="195" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" height="195" />
 </div>
@@ -74,6 +82,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlhusseinAliAlhaidari&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
 </div>
+
+---
+
+## ⏱️ Weekly Coding Activity
 
 <br>
 
