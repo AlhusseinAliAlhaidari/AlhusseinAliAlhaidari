@@ -65,17 +65,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <h3>🐍 My GitHub Contributions Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" height="195" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" height="195" />
 </div>
@@ -85,7 +74,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlhusseinAliAlhaidari&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
 </div>
----
+
+<br>
 
 <div align="center">
 
