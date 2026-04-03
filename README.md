@@ -85,11 +85,29 @@
 
 ---
 
-## ⏱️ Weekly Coding Activity
+---
+
+## ⏱️ WakaTime Analytics
+
+<p align="center">
+  <i>"Great software starts with great architecture, and evolves with intelligent data."</i> 🚀
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="WakaTime Stats" />
+<figure><embed src="https://wakatime.com/share/@AlhusseinAlhaidari/45cf6928-48fd-46c2-913e-6266d16062ee.svg"></embed></figure>
+ 
+ <img src="https://wakatime.com/share/@AlhusseinAlhaidari/45cf6928-48fd-46c2-913e-6266d16062ee.svg" width="48%" alt="WakaTime Activity" />
+  <img src="ضع_رابط_الـ_Languages_هنا" width="48%" alt="WakaTime Languages" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="ضع_رابط_الـ_Editors_هنا" width="48%" alt="WakaTime Editors" />
+  <img src="ضع_رابط_الـ_OS_هنا" width="48%" alt="WakaTime Operating Systems" />
+</div>
+
+
 
 <br>
 
