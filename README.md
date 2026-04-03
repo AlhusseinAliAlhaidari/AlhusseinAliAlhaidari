@@ -94,7 +94,7 @@
 </p>
 
 <div align="center">
- <img src="https://wakatime.com/share/@AlhusseinAlhaidari/f010f80a-514b-4fe4-b2da-501806b6f71a.svg" width="48%" alt="WakaTime Activity" />
+ <img src="https://wakatime.com/share/@AlhusseinAlhaidari/63183e64-c05a-4b9e-9d6b-0b481982d2f0.svg" width="48%" alt="WakaTime Activity" />
   <img src="ضع_رابط_الـ_Languages_هنا" width="48%" alt="WakaTime Languages" />
 </div>
 
