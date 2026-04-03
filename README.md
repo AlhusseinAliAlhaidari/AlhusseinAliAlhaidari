@@ -101,8 +101,8 @@
 <br>
 
 <div align="center">
-  <img src="ضع_رابط_الـ_Editors_هنا" width="48%" alt="WakaTime Editors" />
-  <img src="ضع_رابط_الـ_OS_هنا" width="48%" alt="WakaTime Operating Systems" />
+  <img src="https://wakatime.com/share/@AlhusseinAlhaidari/477a89e1-13d1-492f-9b6e-e261e54210b9.svg" width="48%" alt="WakaTime Editors" />
+  <img src="https://wakatime.com/share/@AlhusseinAlhaidari/0ca2c912-acbd-4e46-8802-3e21e855a4b9.svg" width="48%" alt="WakaTime Categories" />
 </div>
 
 
