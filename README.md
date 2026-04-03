@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/AlhusseinAliAlhaidari">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Al-Hussain+Al-Haidari+👋;Software+%26+Flutter+Developer;Data+Scientist+%26+AI+Engineer;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Al-Hussain+Al-Haidari+👋;Software+Engineer+%7C+AI+Enthusiast;" alt="Typing SVG" />
 </a>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlhusseinAliAlhaidari&color=2196F3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AlhusseinAliAlhaidari&color=2196F3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 **Building scalable systems, clean architectures, and intelligent AI agents.**
@@ -13,7 +13,7 @@
 🇾🇪 Yemen | 🎓 University of Science & Technology <br>
 💡 Clean Code • SOLID • Design Patterns • Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:alhusseinalhaidari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alhusseinalhaidari) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:alhusseinalhaidari@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/alhussainAlhaidari)
 
@@ -56,9 +56,9 @@
 
 | 🤖 AI & Scalable Systems | 💼 Business Solutions |
 | :--- | :--- |
-| **Ahjezli-Agent-Backend** <br> AI-powered land transport management system built with Python and advanced AI agents. | **Accounting System** <br> Clean Architecture, User Management, Smart Reports, and complete Offline Support. |
-| **Offline AI Accounting Assistant** <br> Flutter app integrated with embedded custom-trained AI models. No internet required. | **Smart Restaurant System** <br> QR Code Ordering, Internal Network, Kitchen Display System (KDS), and Smart Recommendations. |
-| **AI Document Assistant** <br> Leveraging tools like NotebookLM and LangGraph to answer complex queries from documents. | **Travel Booking Platform** <br> Complex relationship validation, family bookings, and highly scalable database design. |
+| **Ahjezli-Agent-Backend** <br> AI-powered land transport management system built with Python and advanced AI agents. | **Accounting System** <br> Clean Architecture, User Management, Smart Reporting. |
+| **Offline AI Accounting Assistant** <br> Flutter app integrated with embedded custom-trained AI models. No internet required. | **Smart Restaurant System** <br> QR Code Ordering, Internal Network, Invoice Printing. |
+| **AI Document Assistant** <br> Leveraging tools like NotebookLM and LangGraph to answer complex queries from documents. | **Travel Booking Platform** <br> Complex relationship validation, family reservations. |
 
 ---
 
@@ -73,8 +73,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" />
 </div>
 
 <br>
@@ -86,6 +86,10 @@
 ---
 
 ## ⏱️ Weekly Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="WakaTime Stats" />
+</div>
 
 <br>
 
