@@ -88,7 +88,7 @@
 ## ⏱️ Weekly Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="WakaTime Stats" />
 </div>
 
 <br>
