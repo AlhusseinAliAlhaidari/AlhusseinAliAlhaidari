@@ -1,23 +1,17 @@
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Al-Hussein+Ali+Al-Haidari+👋;AI+Agent+Developer+%7C+Flutter+Architect+%7C+Backend+Engineer)](https://github.com/AlhusseinAliAlhaidari)
 
-<a href="https://github.com/AlhusseinAliAlhaidari">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Al-Hussain+Al-Haidari+👋;Software+Engineer+%7C+AI+Enthusiast;" alt="Typing SVG" />
-</a>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlhusseinAliAlhaidari&color=2196F3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=AlhusseinAliAlhaidari&color=2196F3&style=flat-square&label=PROFILE+VIEWS)](https://github.com/AlhusseinAliAlhaidari)
 
 **Building scalable systems, clean architectures, and intelligent AI agents.**
 
-🇾🇪 Yemen | 🎓 University of Science & Technology <br>
+🇾🇪 Yemen | 🎓 University of Science & Technology
 💡 Clean Code • SOLID • Design Patterns • Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alhusseinalhaidari) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:alhusseinalhaidari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alhusseinalhaidari)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:alhusseinalhaidari@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-2196F3?style=flat)](https://alhussain-alhaidari.onrender.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/alhussainAlhaidari)
-
-</div>
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/alhussainAlhaidari)
 
 ---
 
@@ -28,89 +22,87 @@
 - 🤖 Deeply engaged in **Data Science** and building AI Agents using **Python, LangGraph, and Groq**.
 - 📱 Developing **offline-first** and highly scalable applications.
 - 🧠 Problem solver, system thinker, and passionate about seamlessly integrating AI into practical software solutions.
+- 💼 **Available for remote contracts worldwide** — AI Agents · Flutter · Python/PHP Backends
+- 🌐 **Portfolio:** https://alhussain-alhaidari.onrender.com
+
+---
+
+## 💼 What I Build for Businesses
+
+| Service | Business Value |
+|---------|---------------|
+| 🤖 Autonomous AI Agents (LangGraph) | Automate workflows · Cut operating costs |
+| ⚡ Python & PHP Backends | Scalable APIs your product grows on |
+| 📱 Flutter Apps (Clean Architecture) | iOS + Android · Works offline |
+| 🏗️ System Design & Architecture | Future-proof code teams can maintain |
+| 📊 Data Science & ML Pipelines | Turn raw data into business decisions |
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Development & AI
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/AlhusseinAliAlhaidari)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://github.com/langchain-ai/langgraph)
+[![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=openai&logoColor=white)](https://groq.com)
 
 ### 🗄️ Database & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 
 ### 📐 Architecture & Concepts
-`Clean Architecture` `SOLID Principles` `Repository Pattern` `Use Cases` `MVC / MVVM`
+
+`Clean Architecture` `SOLID Principles` `Repository Pattern` `Use Cases` `MVC / MVVM` `Domain-Driven Design`
 
 ---
 
 ## 📌 Featured Projects
 
 | 🤖 AI & Scalable Systems | 💼 Business Solutions |
-| :--- | :--- |
-| **Ahjezli-Agent-Backend** <br> AI-powered land transport management system built with Python and advanced AI agents. | **Accounting System** <br> Clean Architecture, User Management, Smart Reporting. |
-| **Offline AI Accounting Assistant** <br> Flutter app integrated with embedded custom-trained AI models. No internet required. | **Smart Restaurant System** <br> QR Code Ordering, Internal Network, Invoice Printing. |
-| **AI Document Assistant** <br> Leveraging tools like NotebookLM and LangGraph to answer complex queries from documents. | **Travel Booking Platform** <br> Complex relationship validation, family reservations. |
+|--------------------------|----------------------|
+| **Ahjezli-Agent-Backend** — AI-powered land transport management system built with Python and advanced AI agents. | **Accounting System** — Clean Architecture, User Management, Smart Reporting. |
+| **Offline AI Accounting Assistant** — Flutter app with embedded custom-trained AI. No internet required. | **Smart Restaurant System** — QR Code Ordering, Internal Network, Invoice Printing. |
+| **AI Document Assistant** — LangGraph-powered tool to answer complex queries from documents. | **Travel Booking Platform** — Complex relationship validation, family reservations. |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlhusseinAliAlhaidari&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</div>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlhusseinAliAlhaidari&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" height="165"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlhusseinAliAlhaidari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlhusseinAliAlhaidari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlhusseinAliAlhaidari&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
-</div>
-
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlhusseinAliAlhaidari&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3)](https://github.com/AlhusseinAliAlhaidari)
 
 ---
 
 ## ⏱️ WakaTime Analytics
 
-<p align="center">
-  <i>"Great software starts with great architecture, and evolves with intelligent data."</i> 🚀
-</p>
+[![WakaTime Activity](https://wakatime.com/share/@AlhusseinAlhaidari/8d5e6cad-75ee-4bce-a15c-7f5886322364.svg)](https://wakatime.com/@AlhusseinAlhaidari)
+[![WakaTime Languages](https://wakatime.com/share/@AlhusseinAlhaidari/2d93d6ea-ccc8-4a41-857d-0de1575ae796.svg)](https://wakatime.com/@AlhusseinAlhaidari)
 
-<div align="center">
- <img src="https://wakatime.com/share/@AlhusseinAlhaidari/8d5e6cad-75ee-4bce-a15c-7f5886322364.svg" width="48%" alt="WakaTime Activity" />
-  <img src="https://wakatime.com/share/@AlhusseinAlhaidari/2d93d6ea-ccc8-4a41-857d-0de1575ae796.svg" width="48%" alt="WakaTime Languages" />
-</div>
+---
 
-<br>
+## 📬 Hire Me — Open for Remote Work
 
-<div align="center">
-  <img src="https://wakatime.com/share/@AlhusseinAlhaidari/477a89e1-13d1-492f-9b6e-e261e54210b9.svg" width="48%" alt="WakaTime Editors" />
-  <img src="https://wakatime.com/share/@AlhusseinAlhaidari/0ca2c912-acbd-4e46-8802-3e21e855a4b9.svg" width="48%" alt="WakaTime Categories" />
-</div>
+> 💬 **Looking for a developer who delivers clean, scalable, AI-powered software?**
 
+- 🌐 **Portfolio:** https://alhussain-alhaidari.onrender.com
+- 📧 **Email:** alhusseinalhaidari@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/alhusseinalhaidari
+- 📍 **Location:** Yemen · Available Remote Worldwide
 
+---
 
-<br>
-
-<div align="center">
-
-**"Great software starts with great architecture, and evolves with intelligent data."** 🚀
-
-</div>
+*"Great software starts with great architecture, and evolves with intelligent data."* 🚀
